@@ -1,5 +1,5 @@
 ---
-title: Choisir la Bonne Chaussure de Course
+title: Choisir la Bonne Chaussure de Course - Guide Complet
 date: 2023-08-28
 ---
 
