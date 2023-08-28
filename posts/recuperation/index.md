@@ -17,7 +17,7 @@ Le massage sportif est une méthode professionnelle de récupération active. Il
 ## 4. Compression et Compression Froide
 Les vêtements de compression aident à réduire l'enflure et la douleur musculaire en améliorant la circulation sanguine. De plus, l'utilisation de la compression froide (comme les packs de glace) peut réduire l'inflammation et minimiser les courbatures.
 
-## 5. Exercices Legers de Récupération
+## 5. Exercices Legers de Recuperation
 Engagez-vous dans des exercices légers de récupération, comme une marche rapide ou une séance de vélo à faible intensité. Cela peut aider à stimuler le flux sanguin vers les muscles, tout en évitant l'accumulation d'acide lactique.
 
 ## 6. Alimentation Riche en Nutriments
