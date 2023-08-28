@@ -9,7 +9,7 @@ export const student1 = 'William'
 export const student2 = 'Nicolas'
 export const lastName = 'Degh'
 export const firstName = 'William'
-export const name = `${firstName} ${lastName}`
+export const name = `${student1} & ${student2}`
 
 // Used for the landing page & footer of posts
 export const avatar = 'https://picsum.photos/id/203/250/250'
