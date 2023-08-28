@@ -3,7 +3,7 @@
 // feel free to remove this file.
 
 // URL of your website
-export const website = 'https://sveltekit-blog-template.vercel.app'
+export const website = 'https://svelteseo-f2i.netlify.app/'
 
 export const student1 = 'William'
 export const student2 = 'Nicolas'
@@ -15,17 +15,12 @@ export const name = `${student1} & ${student2}`
 export const avatar = '/avatar.jpg'
 export const bio = `\
 Plongez dans l'univers sportif avec ${student1} et ${student2}, les esprits créatifs derrière un blog passionnant dédié à tout ce qui touche au sport. Explorez des analyses perspicaces, des moments emblématiques et des réflexions sur l'impact du sport dans nos vies.
-
-
-
-
-
 `
 
 // Your social usernames, empty strings won't be used.
 // For sake of the live demo, I'm using `username/repo` for github,
 // but you can replace with just your username.
-export const github = 'mattjennings/sveltekit-blog-template'
+export const github = '0xbwill/svelte-seo'
 export const twitter = ''
 export const linkedin = ''
 export const instagram = ''
