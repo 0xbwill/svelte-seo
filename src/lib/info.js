@@ -5,17 +5,15 @@
 // URL of your website
 export const website = 'https://sveltekit-blog-template.vercel.app'
 
-export const firstName = 'William &'
-export const lastName = 'Nicolas'
+export const student1 = 'William'
+export const student2 = 'Nicolas'
+export const lastName = 'Degh'
 export const name = `${firstName} ${lastName}`
 
 // Used for the landing page & footer of posts
 export const avatar = 'https://picsum.photos/id/203/250/250'
 export const bio = `\
-I’m ${firstName}, a software engineer based in Canada. Lorem ipsum dolor sit amet, consectetur
-adipiscing elit. Phasellus accumsan quam at eros malesuada, id luctus lectus efficitur. Nulla
-sit amet arcu mi. Duis quis mauris malesuada, posuere orci et, pulvinar nisl. Nam malesuada
-vehicula sapien vitae sagittis.
+We're ${student1} & ${2}, two aspiring computer science students hailing from Canada. William, a dedicated web developper, and Nicolas, an enthusiastic tech aficionado, share a common passion for the world of coding and technology.
 `
 
 // Your social usernames, empty strings won't be used.
