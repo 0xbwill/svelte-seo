@@ -14,7 +14,12 @@ export const name = `${student1} & ${student2}`
 // Used for the landing page & footer of posts
 export const avatar = '/avatar.jpg'
 export const bio = `\
-We're ${student1} & ${student2}, two aspiring computer science students hailing from Canada. William, a dedicated web developper, and Nicolas, an enthusiastic tech aficionado, share a common passion for the world of coding and technology.
+Plongez dans l'univers sportif avec ${student1} et ${student2}, les esprits créatifs derrière un blog passionnant dédié à tout ce qui touche au sport. Explorez des analyses perspicaces, des moments emblématiques et des réflexions sur l'impact du sport dans nos vies.
+
+
+
+
+
 `
 
 // Your social usernames, empty strings won't be used.
