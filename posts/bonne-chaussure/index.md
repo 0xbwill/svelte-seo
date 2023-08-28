@@ -8,7 +8,7 @@ La course à pied est bien plus qu'une simple activité physique – c'est un mo
 ## 1. Comprendre les Types de Chaussures 
 Toutes les chaussures de course ne se valent pas. Il existe différents types de chaussures conçues pour répondre à des besoins spécifiques. Les chaussures de route sont idéales pour les surfaces pavées, offrant légèreté et amorti. Les chaussures de trail sont plus robustes, conçues pour les terrains accidentés et offrant une meilleure adhérence. Les chaussures minimalistes favorisent une foulée naturelle en offrant un faible amorti et une sensation de proximité avec le sol.
 
-## 2. Connaitre votre Type de Foulée 
+## Connaitre votre Type de Foulée 
 La foulée est la manière dont votre pied entre en contact avec le sol pendant la course. Elle peut être neutre, pronatrice (le pied roule vers l'intérieur) ou supinatrice (le pied roule vers l'extérieur). Comprendre votre type de foulée est essentiel pour choisir des chaussures qui offrent le bon soutien et l'amorti adapté à votre style de course.
 
 ## 3. Tester les Chaussures 
