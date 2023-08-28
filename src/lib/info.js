@@ -12,7 +12,7 @@ export const firstName = 'William'
 export const name = `${student1} & ${student2}`
 
 // Used for the landing page & footer of posts
-export const avatar = 'https://picsum.photos/id/203/250/250'
+export const avatar = '/avatar.jpg'
 export const bio = `\
 We're ${student1} & ${student2}, two aspiring computer science students hailing from Canada. William, a dedicated web developper, and Nicolas, an enthusiastic tech aficionado, share a common passion for the world of coding and technology.
 `
