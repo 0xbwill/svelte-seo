@@ -12,7 +12,7 @@ export const firstName = 'William'
 export const name = `${student1} & ${student2}`
 
 // Used for the landing page & footer of posts
-export const avatar = 'https://picsum.photos/id/203/250/250'
+export const avatar = 'https://img.freepik.com/vecteurs-libre/concept-equipement-sport_1284-13034.jpg?w=2000'
 export const bio = `\
 Plongez dans l'univers sportif avec ${student1} et ${student2}, les esprits créatifs derrière un blog passionnant dédié à tout ce qui touche au sport. Explorez des analyses perspicaces, des moments emblématiques et des réflexions sur l'impact du sport dans nos vies.
 `
