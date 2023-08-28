@@ -18,9 +18,9 @@
 <div class="flex flex-col flex-grow">
   <header class="pt-4">
     <h1 class="text-4xl font-bold tracking-tight sm:text-5xl">
-      Writing on tech, music, and whatever else I feel like
+      Esprit sportif : explorations et analyses
     </h1>
-    <p class="mt-6">All of my written content collected in one place</p>
+    <p class="mt-6">Retrouvez tous nos articles abordant divers sujets liés au sport.</p>
   </header>
 
   <div class="mt-16 sm:mt-20">
@@ -32,7 +32,7 @@
     {#if !isFirstPage}
       <a href={`/posts/${data.page - 1}`} data-sveltekit-prefetch>
         <ArrowLeftIcon class="w-4 h-4" />
-        Previous
+        Précédent
       </a>
     {:else}
       <div />
@@ -40,7 +40,7 @@
 
     {#if hasNextPage}
       <a href={`/posts/${data.page + 1}`} data-sveltekit-prefetch
-        >Next
+        >Suivant
         <ArrowRightIcon class="w-4 h-4" />
       </a>
     {/if}
