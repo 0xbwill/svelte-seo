@@ -17,10 +17,10 @@ L'essayage en magasin est une étape incontournable. Portez les chaussettes de c
 ## 4. Analyser l'Ajustement 
 L'ajustement est essentiel pour éviter les blessures. Vos orteils ne doivent pas toucher l'avant de la chaussure, mais il ne doit pas non plus y avoir trop d'espace. Un ajustement incorrect peut causer des ampoules, des douleurs ou des blessures liées à une mauvaise posture.
 
-## 5. Évaluer l'Amorti 
+## 5. Evaluer l'Amorti 
 L'amorti varie d'une chaussure à l'autre. Certains coureurs préfèrent une sensation de proximité avec le sol, tandis que d'autres ont besoin d'un amorti plus important pour réduire les chocs. Choisissez en fonction de vos préférences et de votre niveau d'expérience.
 
-## 6. Prévention des Blessures 
+## 6. Prevention des Blessures 
 La bonne chaussure de course peut prévenir les blessures. Recherchez des chaussures qui offrent un bon soutien de la voûte plantaire, une stabilité latérale et un bon amorti. Si vous avez des problèmes de pieds, choisissez des chaussures spécialement conçues pour vos besoins.
 
 ## 7. Rotation des Chaussures 
