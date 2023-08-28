@@ -5,7 +5,7 @@ date: 2023-08-28
 
 Lorsqu'il s'agit de choisir entre l'entraînement en salle et l'entraînement en plein air, les passionnés de fitness se retrouvent souvent face à un dilemme. Chaque environnement offre ses propres avantages et peut avoir un impact significatif sur la façon dont vous abordez vos séances d'entraînement et les résultats que vous obtenez. Dans cet article, nous allons comparer les avantages de l'entraînement en salle et en plein air pour vous aider à prendre une décision éclairée.
 
-## Entraînement en Salle
+## Entrainement en Salle
 
 1. Contrôle de l'Environnement : L'un des principaux avantages de l'entraînement en salle est le contrôle total de l'environnement. Vous pouvez ajuster la température, la ventilation, la musique et les équipements à vos préférences, ce qui peut créer un cadre motivant et confortable.
 
@@ -15,7 +15,7 @@ Lorsqu'il s'agit de choisir entre l'entraînement en salle et l'entraînement en
 
 4. Entraînement Indépendant des Conditions Météorologiques : Que ce soit sous la pluie, la neige ou la canicule, vous pouvez toujours vous entraîner en salle, ce qui élimine l'effet des conditions météorologiques sur votre programme d'entraînement.
 
-## Entraînement en Plein Air
+## Entrainement en Plein Air
 
 1. Contact avec la Nature : L'entraînement en plein air offre une connexion avec la nature qui peut être revitalisante. L'air frais et la lumière du soleil contribuent à une sensation de bien-être et peuvent améliorer votre humeur.
 
