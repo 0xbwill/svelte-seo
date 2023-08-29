@@ -3,7 +3,7 @@
 // feel free to remove this file.
 
 // URL of your website
-export const website = 'https://svelteseo-f2i.netlify.app/'
+export const website = 'https://0xbwill.me'
 
 export const student1 = 'William'
 export const student2 = 'Nicolas'
