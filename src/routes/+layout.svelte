@@ -21,8 +21,9 @@
   <div class="flex flex-col flex-grow w-full px-4 py-2">
     <header class="flex items-center justify-between w-full max-w-2xl py-4 mx-auto lg:pb-8">
       <div class="d-flex justify-around">
-        <a class="text-2xl font-bold dark:text-white text-black mr-5" href="/">Accueil</a>
-        <a class="text-2xl font-bold dark:text-white text-black" href="/posts">Posts</a>
+        <a class="text-xl font-bold dark:text-white text-black mr-5" href="/">Accueil</a>
+        <a class="text-xl font-bold dark:text-white text-black mr-5" href="/posts">Posts</a>
+        <a class="text-xl font-bold dark:text-white text-black" href="/about">A propos</a>
       </div>
       <button
         type="button"
